@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Smart Pantry pink palette -->
+    <color name="pink_primary">#D95783</color>
+    <color name="pink_dark">#8E3658</color>
+    <color name="pink_light">#F6D6E1</color>
+    <color name="pink_background">#FFF5F7</color>
+    <color name="pink_surface">#FFFFFF</color>
+    <color name="pink_soft">#FCE5EC</color>
+    <color name="pink_muted">#956D7C</color>
+    <color name="pink_border">#EBC0D0</color>
+    <color name="pink_accent">#E88EAC</color>
+</resources>
